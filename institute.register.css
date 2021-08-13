@@ -1,0 +1,23 @@
+h1, h2, h3, h4,  h5, h6{
+   
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    color: #DBE2EF;
+}
+p{
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+#form{
+   
+    background-color: #DBE2EF;
+    padding: 5% 13% 7%;
+}
+.form{
+    color: #DBE2EF;
+    background-color:  #3F72AF;
+    padding: 5%;
+}
+.button{
+    padding-top: 2rem;
+}

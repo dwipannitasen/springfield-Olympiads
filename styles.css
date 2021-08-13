@@ -1,0 +1,152 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+h1, h2, h3, h4,  h5, h6{
+   
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+p{
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+#title{
+    padding-bottom: 15rem;
+    background-image: url(images/h1.jpg);
+    background-color: rgba(0,0,0,0.5);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title-div{
+    padding-left: 12%;
+}
+.navbar-brand{
+    padding-left: 5%;
+}
+.navbar{
+    padding: 2em 0 2em;
+    background-color: rgba(0,0,0,0.5);
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+}
+
+.title-heading{
+    color: white;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+   
+}
+
+/*register buttons*/
+.register-btn{
+    background-color: #3F72AF;
+ }
+ 
+
+ /* about section */
+
+#about{
+    padding: 5% 13% 7%;
+}
+
+ .logo{
+    width: 50%;
+}
+
+.about-heading{
+    color: #3F72AF;
+    padding-top: 2rem;
+}
+.about-body{
+    color: #112D4E;
+    padding-top: 3rem;
+}
+
+
+/* olympiads section */
+#olympiads{
+background-color: #DBE2EF;
+    padding: 5% 13% 7%;
+    
+}
+
+.olympiads{
+    background-color: #3F72AF;
+    padding: 3%;
+    color:#DBE2EF;
+}
+
+.olympiads-heading{
+    padding-bottom: 1rem;
+}
+
+
+.oly-icon{
+    font-size: 3rem;
+    padding-bottom: 1rem;
+   
+}
+
+ /* registration section  */
+#register{
+    padding: 5% 13% 7%;
+    text-align: center;
+    background-color: #3F72AF;
+}
+.register{
+    font-size: 5rem;
+    padding-bottom: 1rem;
+    color: #112D4E;
+}
+.register-text{
+    color: #DBE2EF;
+    text-align:justify;
+}
+.register-heading{
+    color: #DBE2EF;
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+.register-item{
+    padding-right: 5% ;
+    padding-top: 2rem;
+}
+
+/* footer section */
+
+.footer{
+    background-color: #DBE2EF;
+    padding: 5% 13% 7%;
+    text-align: center;
+    
+}
+.logos{
+    text-decoration: none;
+}
+.follow {
+    font-size: 2rem;
+    padding-right: 2%;
+    color: #112D4E;
+}
+.follow-heading{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    color:#112D4E;
+}
+.footer-icons{
+    color:#112D4E;
+    font-size: 1rem;
+}
+
